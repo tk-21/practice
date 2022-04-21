@@ -1,0 +1,12 @@
+[user]
+	name = takuya
+	email = 83660733+tk-21@users.noreply.github.com
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+[init]
+	defaultBranch = main
